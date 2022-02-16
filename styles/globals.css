@@ -10,6 +10,7 @@
 
 @layer base {
   body {
-    @apply bg-gradient-to-r from-[#f59e0b] to-[#e11d48];
+    @apply dark:bg-slate-900;
+    @apply bg-gradient-to-r from-[#f472b6] via-[#db2777] to-[#be123c];
   }
 }
