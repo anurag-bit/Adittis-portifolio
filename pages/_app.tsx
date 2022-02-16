@@ -24,21 +24,21 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | AI Enthusiast"
-        titleTemplate="Anurag | AI Enthusiast"
-        defaultTitle="Anurag | AI Enthusiast"
-        description="Hey! I'm Anurag, An AI Enthusiast, Blogger and a Student!"
+        title="Aditti Singh | AI Enthusiast"
+        titleTemplate="Aditti Singh | AI Enthusiast"
+        defaultTitle="Aditti Singh | AI Enthusiast"
+        description="Hey! I'm Aditti , An AI Enthusiast, Blogger and a Student!"
         openGraph={{
           url: "https://www.anurag.tech/",
-          title: "Anurag | Ai Enthusiast",
+          title: "Aditti Singh | Ai Enthusiast",
           description:
-            "Hey! I'm Anurag, A AI Developer, Blogger and a Student!",
+            "Hey! I'm Aditti, A AI Developer, Blogger and a Student!",
           images: [
             {
               url: "https://res.cloudinary.com/anurag256k/image/upload/v1644938293/wp10293345-think-plan-execute-wallpapers_zdx8qc.jpg",
               width: 800,
               height: 420,
-              alt: "Anurag | AI Enthusiast",
+              alt: "Aditti Singh | AI Enthusiast",
             },
           ],
         }}
